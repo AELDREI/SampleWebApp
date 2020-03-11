@@ -1,0 +1,4 @@
+ionic deploy add  \
+    --app-id="YOUR_APP_ID" \
+    --channel-name="YOUR_CHANNEL_NAME" \
+    --update-method="background|auto|none" \
